@@ -8,7 +8,7 @@ Uma API RESTful de alta performance para encurtamento de URLs, desenvolvida com 
 * **Redirecionamento Rápido:** Encaminhamento direto para o site original (`HTTP 307/302`).
 * **Expiração de Links (Escassez):** Suporte nativo a datas de validade. Links expirados retornam erro `410 Gone` automaticamente.
 * **Rate Limiting (Segurança):** API blindada contra bots e abusos com limite de 5 requisições por minuto por IP.
-* **Analytics Integrado:** Rastreamento em tempo real do número de cliques, status do link e data de criação.
+* **Analytics Integrado:** Rastreamento em tempo real do número de cliques status do link e data de criação.
 
 ## 🛠️ Tecnologias Utilizadas
 
